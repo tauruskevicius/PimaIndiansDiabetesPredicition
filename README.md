@@ -1,5 +1,5 @@
 # Pima Indians Predicition
 
-Machine Learning Practice on a Kaggle.com competition
+Predicted the onset of diabetes based on diagnostic measures
 
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
